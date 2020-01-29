@@ -1,3 +1,5 @@
+![NeuroStartUp](https://github.com/viktoria-sap/neuro-start-up/blob/master/logo.png)
+
 # NeuroStartUp
 
 **NeuroStartUp** - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
